@@ -1,0 +1,27 @@
+body{
+
+}
+
+.navbar {
+    background-color: #D9DF00;
+}
+
+.shrek-five{
+    background-color: snow;
+    color: #22150D;
+}
+
+.margin{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.scripts{
+    background-color: #B1B506;
+    font: 15px Arial;
+    color: black;
+}
+
+.rodape{
+    background-color: #B1B506;
+}
